@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25/11/26
+## Reference Number:26018120
+## Name:U.Mohamed Mansoor
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,45 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Proposed Solution
+Title: A Smarter Way to Connect Farmers and Buyers
+A platform that directly connects farmers with consumers and bulk buyers.
+Helps farmers sell their produce at better prices without depending on multiple middlemen.
+Gives consumers access to fresh products at reasonable prices.
+Uses AI to understand market demand and suggest suitable selling prices.
+Makes transportation and delivery easier through logistics support.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Title: How Our Solution Works
+A simple mobile and web platform that farmers and buyers can easily use.
+AI helps predict market demand and identify price trends.
+Connects farmers with buyers based on product availability and requirements.
+Provides information about orders, prices and delivery status.
+Uses data to improve decision-making and reduce unnecessary delays.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Title: Practical, Affordable and Easy to Scale
+Can be developed using currently available technologies.
+Designed to be simple, even for farmers with limited technical knowledge.
+FPOs can help bring more farmers onto the platform.
+Local transport services can be used for delivery.
+Can generate revenue through small service fees while keeping costs affordable.
+Can gradually expand to more villages and cities.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Title: Creating a Better Future for Farmers and Consumers
+Farmers: Better prices and improved income opportunities.
+Consumers: Fresh produce at more affordable prices.
+FPOs: Easier access to a wider market.
+Agriculture: Less dependency on unnecessary intermediaries.
+Environment: Reduced food wastage through better demand planning.
+Society: A more transparent and fair agricultural marketplace.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+Title: Research and Existing Market Insights
+Government reports on agricultural markets and farmers' income.
+Research on problems caused by multiple intermediaries.
+Studies on digital agricultural marketplaces.
+Research on AI-based price prediction and demand forecasting.
+Existing platforms such as e-NAM and Farmer Producer Organizations (FPOs).
+Research on logistics, food wastage and direct farmer-to-consumer models.
